@@ -1,0 +1,6 @@
+@stocks_webproject_HostAddress = http://localhost:5168
+
+GET {{stocks_webproject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

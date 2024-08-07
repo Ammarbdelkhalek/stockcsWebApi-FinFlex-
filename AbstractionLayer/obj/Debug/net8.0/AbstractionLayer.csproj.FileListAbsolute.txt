@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\AbstractionLayer\bin\Debug\net8.0\AbstractionLayer.deps.json
+C:\Users\DELL\source\repos\AbstractionLayer\bin\Debug\net8.0\AbstractionLayer.dll
+C:\Users\DELL\source\repos\AbstractionLayer\bin\Debug\net8.0\AbstractionLayer.pdb
+C:\Users\DELL\source\repos\AbstractionLayer\obj\Debug\net8.0\AbstractionLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AbstractionLayer\obj\Debug\net8.0\AbstractionLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AbstractionLayer\obj\Debug\net8.0\AbstractionLayer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AbstractionLayer\obj\Debug\net8.0\AbstractionLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AbstractionLayer\obj\Debug\net8.0\AbstractionLayer.dll
+C:\Users\DELL\source\repos\AbstractionLayer\obj\Debug\net8.0\refint\AbstractionLayer.dll
+C:\Users\DELL\source\repos\AbstractionLayer\obj\Debug\net8.0\AbstractionLayer.pdb
+C:\Users\DELL\source\repos\AbstractionLayer\obj\Debug\net8.0\ref\AbstractionLayer.dll

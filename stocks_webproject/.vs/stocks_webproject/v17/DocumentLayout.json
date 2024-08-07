@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|c:\\users\\dell\\source\\repos\\stocks_webproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110DCE77-C8C0-4726-A67B-18472373B12D}|..\\Domain or abstractionLayer\\Domain or abstractionLayer.csproj|c:\\users\\dell\\source\\repos\\domain or abstractionlayer\\entites\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110DCE77-C8C0-4726-A67B-18472373B12D}|..\\Domain or abstractionLayer\\Domain or abstractionLayer.csproj|c:\\users\\dell\\source\\repos\\domain or abstractionlayer\\entites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|c:\\users\\dell\\source\\repos\\stocks_webproject\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|solutionrelative:controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110DCE77-C8C0-4726-A67B-18472373B12D}|..\\Domain or abstractionLayer\\Domain or abstractionLayer.csproj|c:\\users\\dell\\source\\repos\\domain or abstractionlayer\\interface\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|c:\\users\\dell\\source\\repos\\stocks_webproject\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|c:\\users\\dell\\source\\repos\\stocks_webproject\\controllers\\portofoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|solutionrelative:controllers\\portofoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|c:\\users\\dell\\source\\repos\\stocks_webproject\\mapper\\comments\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|solutionrelative:mapper\\comments\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|c:\\users\\dell\\source\\repos\\stocks_webproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|c:\\users\\dell\\source\\repos\\stocks_webproject\\extenstion\\claimextenstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|solutionrelative:extenstion\\claimextenstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|c:\\users\\dell\\source\\repos\\stocks_webproject\\stocks_webproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7251F4A9-C8EB-493B-A0CD-C1C296784EB0}|stocks_webproject.csproj|solutionrelative:stocks_webproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC305527-CF6B-4164-9725-3CF1FE9A021C}|..\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj|c:\\users\\dell\\source\\repos\\businesslogic_layer\\repository\\portofoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110DCE77-C8C0-4726-A67B-18472373B12D}|..\\Domain or abstractionLayer\\Domain or abstractionLayer.csproj|c:\\users\\dell\\source\\repos\\domain or abstractionlayer\\interface\\iportofoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110DCE77-C8C0-4726-A67B-18472373B12D}|..\\Domain or abstractionLayer\\Domain or abstractionLayer.csproj|c:\\users\\dell\\source\\repos\\domain or abstractionlayer\\modelsdto\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC305527-CF6B-4164-9725-3CF1FE9A021C}|..\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj|c:\\users\\dell\\source\\repos\\businesslogic_layer\\data\\configuration\\stockconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC305527-CF6B-4164-9725-3CF1FE9A021C}|..\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj|c:\\users\\dell\\source\\repos\\businesslogic_layer\\data\\configuration\\portoflioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC305527-CF6B-4164-9725-3CF1FE9A021C}|..\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj|c:\\users\\dell\\source\\repos\\businesslogic_layer\\data\\configuration\\identitiyroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110DCE77-C8C0-4726-A67B-18472373B12D}|..\\Domain or abstractionLayer\\Domain or abstractionLayer.csproj|c:\\users\\dell\\source\\repos\\domain or abstractionlayer\\modelsdto\\comment_dto\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\modelsDTO\\Comment_DTO\\CreateCommentDTO.cs",
+              "RelativeDocumentMoniker": "..\\Domain or abstractionLayer\\modelsDTO\\Comment_DTO\\CreateCommentDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\modelsDTO\\Comment_DTO\\CreateCommentDTO.cs",
+              "RelativeToolTip": "..\\Domain or abstractionLayer\\modelsDTO\\Comment_DTO\\CreateCommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:41:51.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:19:22.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:12:00.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:53:21.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PortoflioConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BusinessLogic_Layer\\data\\configuration\\PortoflioConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic_Layer\\data\\configuration\\PortoflioConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BusinessLogic_Layer\\data\\configuration\\PortoflioConfiguration.cs",
+              "RelativeToolTip": "..\\BusinessLogic_Layer\\data\\configuration\\PortoflioConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:08:16.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentitiyRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BusinessLogic_Layer\\data\\configuration\\IdentitiyRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic_Layer\\data\\configuration\\IdentitiyRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BusinessLogic_Layer\\data\\configuration\\IdentitiyRoleConfiguration.cs",
+              "RelativeToolTip": "..\\BusinessLogic_Layer\\data\\configuration\\IdentitiyRoleConfiguration.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:15:22.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APPUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\Entites\\APPUser.cs",
+              "RelativeDocumentMoniker": "..\\Domain or abstractionLayer\\Entites\\APPUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\Entites\\APPUser.cs",
+              "RelativeToolTip": "..\\Domain or abstractionLayer\\Entites\\APPUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:03:49.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\Entites\\AuthModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain or abstractionLayer\\Entites\\AuthModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\Entites\\AuthModel.cs",
+              "RelativeToolTip": "..\\Domain or abstractionLayer\\Entites\\AuthModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:25:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PortofolioController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Controllers\\PortofolioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PortofolioController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Controllers\\PortofolioController.cs",
+              "RelativeToolTip": "Controllers\\PortofolioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:21:24.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "commentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Mapper\\comments\\commentMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\comments\\commentMapper.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Mapper\\comments\\commentMapper.cs",
+              "RelativeToolTip": "Mapper\\comments\\commentMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:58:50.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:24:56.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\Interface\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain or abstractionLayer\\Interface\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\Interface\\IStockRepository.cs",
+              "RelativeToolTip": "..\\Domain or abstractionLayer\\Interface\\IStockRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:05:27.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimExtenstion.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Extenstion\\ClaimExtenstion.cs",
+              "RelativeDocumentMoniker": "Extenstion\\ClaimExtenstion.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\Extenstion\\ClaimExtenstion.cs",
+              "RelativeToolTip": "Extenstion\\ClaimExtenstion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:51:16.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "stocks_webproject.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\stocks_webproject.http",
+              "RelativeDocumentMoniker": "stocks_webproject.http",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\stocks_webproject\\stocks_webproject.http",
+              "RelativeToolTip": "stocks_webproject.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-09T22:19:52.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IportofolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\Interface\\IportofolioRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain or abstractionLayer\\Interface\\IportofolioRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\Interface\\IportofolioRepository.cs",
+              "RelativeToolTip": "..\\Domain or abstractionLayer\\Interface\\IportofolioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:14:52.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PortofolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BusinessLogic_Layer\\Repository\\PortofolioRepository.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic_Layer\\Repository\\PortofolioRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BusinessLogic_Layer\\Repository\\PortofolioRepository.cs",
+              "RelativeToolTip": "..\\BusinessLogic_Layer\\Repository\\PortofolioRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:15:41.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StockConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BusinessLogic_Layer\\data\\configuration\\StockConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic_Layer\\data\\configuration\\StockConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BusinessLogic_Layer\\data\\configuration\\StockConfiguration.cs",
+              "RelativeToolTip": "..\\BusinessLogic_Layer\\data\\configuration\\StockConfiguration.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA3wBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:34:38.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\modelsDTO\\Account\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain or abstractionLayer\\modelsDTO\\Account\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Domain or abstractionLayer\\modelsDTO\\Account\\LoginModel.cs",
+              "RelativeToolTip": "..\\Domain or abstractionLayer\\modelsDTO\\Account\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:42:12.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

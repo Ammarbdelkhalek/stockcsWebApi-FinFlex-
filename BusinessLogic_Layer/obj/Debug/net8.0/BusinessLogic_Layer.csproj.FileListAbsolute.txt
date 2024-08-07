@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\BusinessLogic_Layer\bin\Debug\net8.0\BusinessLogic_Layer.deps.json
+C:\Users\DELL\source\repos\BusinessLogic_Layer\bin\Debug\net8.0\BusinessLogic_Layer.runtimeconfig.json
+C:\Users\DELL\source\repos\BusinessLogic_Layer\bin\Debug\net8.0\BusinessLogic_Layer.dll
+C:\Users\DELL\source\repos\BusinessLogic_Layer\bin\Debug\net8.0\BusinessLogic_Layer.pdb
+C:\Users\DELL\source\repos\BusinessLogic_Layer\bin\Debug\net8.0\Domain or abstractionLayer.dll
+C:\Users\DELL\source\repos\BusinessLogic_Layer\bin\Debug\net8.0\Domain or abstractionLayer.pdb
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\BusinessLogic_Layer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\BusinessLogic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\BusinessLogic_Layer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\BusinessLogic_Layer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\BusinessLogic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\Business.1799225A.Up2Date
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\BusinessLogic_Layer.dll
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\refint\BusinessLogic_Layer.dll
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\BusinessLogic_Layer.pdb
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\BusinessLogic_Layer.genruntimeconfig.cache
+C:\Users\DELL\source\repos\BusinessLogic_Layer\obj\Debug\net8.0\ref\BusinessLogic_Layer.dll
