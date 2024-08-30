@@ -26,7 +26,7 @@ To run the FinFlex API locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yousefsaad12/FinFlex-Api.git
+    git clone https://github.com/Ammarbdelkhalek/stockcsWebApi-FinFlex-.git
     ```
 
 2. Navigate to the project directory:
