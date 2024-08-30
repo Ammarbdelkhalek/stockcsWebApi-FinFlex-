@@ -32,7 +32,7 @@ To run the FinFlex API locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd FinFlex-Api
+    cd StocksApi
     ```
 
 3. Start the server:
@@ -41,7 +41,7 @@ To run the FinFlex API locally, follow these steps:
     dotnet watch run
     ```
 
-The server will start running at `http://localhost:3000` by default.
+.
 
 ## Usage
 
